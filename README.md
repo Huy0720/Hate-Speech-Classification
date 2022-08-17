@@ -6,7 +6,7 @@
 * Win Tun Kyaw
 
 # Introduction
-Online hate speech is an important issue that breaks the cohesiveness of online social communities and even raises public safety concerns in our societies. Motivated by this rising issue, researchers have developed many traditional machine learning and deep learning methods to detect hate speech on online social platforms automatically.
+Online hate speech is an important issue that breaks the cohesiveness of online social communities and even raises public safety concerns in our societies. Motivated by this rising issue, our team has developed many traditional machine learning and deep learning methods to detect hate speech on online social platforms automatically.
 
 Essentially, the detection of online hate speech can be formulated as a text classification task: "Given a social media post, classify if the post is explicitly hateful, implicitly hateful or non-hateful". In this project, we apply 6 different machine learning models to perform hate speech classification.
 
